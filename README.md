@@ -1,2 +1,7 @@
 # Nov9_10_Hackathon
-This repo contains additional information for the UTD and UMD Hackathon challenges
+Fannie Mae is running two distinct challenges for this Hackathon.
+
+ - The first challenge is a data science oriented challenge that asks you to evaluate the "risk factors" associated with early payoff or defaulting on mortgages across 4 different time periods. This challenge asks you to look at all the attributes in the data set and indentfy those that are highely correlated with either early payoff of the loan or defaulting (going into foreclosure) on the loan. You should clearly identify these associated attributes (one for each years worth of data) and then produce some type of visualization that compares/contrasts these factors. Bonus points will be awarded is you build some type of classification or neural network based model that can effectively predict whether a loan will go into default or pay off early. You should build one model for each years worth of data included in the challenge.
+ 
+ - The second challenge asks you to build some type of mobile or web based game (think Magic the Gathering, Pokeman Go, Monopoly, etc.) that teaches key elements and facts related to saving and credit. The target audience for the game include High School and College students and must include a pre/post knowledge survey. Information that must be taught through the game is included in the FAQ in the xxx folder. Teams participating in attempting this challenge must also take the pre/post survey.
+ 
