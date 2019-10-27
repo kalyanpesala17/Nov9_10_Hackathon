@@ -14,7 +14,7 @@ You and your team can build a games like:
  
  Please be creative with your solutions and don't hesitate to ask questions from Fannie Mae folks at the table or via our Slack channel.
  
- If you're looking for ideas about how other educational games have been build check out this link:
+ If you're looking for ideas about how other educational games have been built check out this link:
   - https://itch.io/games/made-with-unity/tag-educational
   
   Also, be aware there are a number of commercial and open source "game engines" you could utilize to develop your game including (but not limited to):
