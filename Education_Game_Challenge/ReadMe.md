@@ -3,9 +3,7 @@ Welcome to the Fannie Mae 2019 Education Game Challenge!
 For this challenge you are tasked with building some type of online game (web-based, mobile, AR/VR, etc) that teaches High 
 School and College students some of the basics around savings and credit.
 
-The information to be taught is included in the [xxx] document in this folder. Please review the contents of this document
-and work to incorporate as many of the items included there in your game. Additionally, you must present individuals
-playing the game with a survey before and after playing the game. This survey data should be captured by your game
+The information to be taught is included in the document "Education_Game_Teaching_Content.pdf" in this folder. Please review the contents of this document and work to incorporate as many of the items included there in your game. Additionally, you must present individuals playing the game with a survey before and after playing the game. This survey data should be captured by your game
 and [uploaded? emailed?] to [xxx site].
 
 You and your team can build a games like:
