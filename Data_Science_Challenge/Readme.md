@@ -20,7 +20,7 @@ Some examples of the "risk factors" that could be relevant include:
  
 As an example - if you discover many prepaid loans in Florida or southern Texas - is it possible those prepaids are the result of insurance companies paying off damaged or destroyed houses?
 
-You may use any tool you like for reporting / visualization including Matplotlib, D3.js, Tableau, etc.
+You may use any tool you like for reporting / visualization including Matplotlib, D3.js, Tableau, etc. If you would like you could also integrate Google maps, or build an AR/VR style app (either for your phone / tables or an actual VR headset.)
 
 In addition to downloading the data from the above link you will need to have the following libraries installed in order to run the notebook. (In addition to having Jupyter itself installed).
 
