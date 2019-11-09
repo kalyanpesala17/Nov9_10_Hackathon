@@ -3,8 +3,7 @@ Welcome to the Fannie Mae 2019 Education Game Challenge!
 For this challenge you are tasked with building some type of online game (web-based, mobile, AR/VR, etc) that teaches High 
 School and College students some of the basics around savings and credit.
 
-The information to be taught is included in the document "Education_Game_Teaching_Content.pdf" in this folder. Please review the contents of this document and work to incorporate as many of the items included there in your game. Additionally, you must present individuals playing the game with a survey before and after playing the game. This survey data should be captured by your game
-and [uploaded? emailed?] to [xxx site].
+The information to be taught is included in the document "Education_Game_Teaching_Content.pdf" in this folder. Please review the contents of this document and work to incorporate as many of the items included there in your game.
 
 You and your team can build a games like:
  - Memory/quiz oriented game that provides a repetitive drill experience
@@ -23,5 +22,5 @@ You and your team can build a games like:
    - Unreal - C++ - https://en.wikipedia.org/wiki/Unreal_Engine
    - Godot - C++ and C# - https://en.wikipedia.org/wiki/Godot_(game_engine)
    
-   There are many other techniques and mechanisms you could use to develop your game - don't limit your thinking to just the tools listed above.
+   There are many other techniques and mechanisms you could use to develop your game - don't limit your thinking to just the tools listed above. You could build a memory/flash-card type game as a mobile or web app, or a matching tile game, or even a puzzle style game that uses similar or common concept as the intersection points.
    
