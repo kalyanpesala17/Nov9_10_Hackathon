@@ -8,6 +8,7 @@ The information to be taught is included in the document "Education_Game_Teachin
 Also, as part of your game you'll need to have players take a pre and post survey at the following link:
  - https://www.surveymonkey.com/r/L3TLBXH
  - https://www.surveymonkey.com/r/LP2FLTR
+ 
 You and your team can build a games like:
  - Memory/quiz oriented game that provides a repetitive drill experience
  - A card based game similar to Magic: The Gathering where different concepts could represent different powers or actions
